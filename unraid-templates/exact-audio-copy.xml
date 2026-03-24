@@ -16,8 +16,8 @@
 
   <Config Name="WebUI Port" Target="8080" Default="8080" Mode="tcp" Description="noVNC Web Interface" Type="Port" Display="always"/>
 
-  <Config Name="CD Drive" Target="/dev/sr0" Default="/dev/sr0" Mode="rwm" Description="Optical drive device (run: 'ls -l /dev/s* | grep -Ei &quot;cd|dvd&quot;')" Type="Device" Display="always"/>
+  <Config Name="CD Drive" Target="/dev/sr0" Default="/dev/sr0" Mode="rwm" Description="Optical drive device (run: ls -l /dev/s* | grep -Ei &quot;cd|dvd&quot;)" Type="Device" Display="always"/>
 
-  <Config Name="SG Device" Target="/dev/sg1" Default="/dev/sg1" Mode="rwm" Description="SCSI generic device (run: 'ls -l /dev/s* | grep -Ei &quot;cd|dvd&quot;')" Type="Device" Display="always"/>
+  <Config Name="SG Device" Target="/dev/sg1" Default="/dev/sg1" Mode="rwm" Description="SCSI generic device (run: ls -l /dev/s* | grep -Ei &quot;cd|dvd&quot;)" Type="Device" Display="always"/>
 
 </Container>
