@@ -1,0 +1,1192 @@
+WINE REGISTRY Version 2
+;; All keys relative to REGISTRY\\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1774295194
+#time=1dcbafdc1020e60
+@=""
+
+[Console] 1774301373
+#time=1dcbb0c24458746
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Control Panel\\Accessibility\\AudioDescription] 1774295186
+#time=1dcbafdbc95ff76
+"Locale"=dword:00000000
+"On"="0"
+
+[Control Panel\\Accessibility\\Blind Access] 1774295186
+#time=1dcbafdbc95f58a
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1774295186
+#time=1dcbafdbc95e8d8
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1774295186
+#time=1dcbafdbc95f83c
+"On"="0"
+
+[Control Panel\\Colors] 1774295196
+#time=1dcbafdc2728716
+"ActiveBorder"="255 255 255"
+"ActiveTitle"="50 150 250"
+"AppWorkSpace"="128 128 128"
+"Background"="37 111 149"
+"ButtonAlternateFace"="255 255 255"
+"ButtonDkShadow"="106 106 106"
+"ButtonFace"="245 245 245"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="166 166 166"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="50 150 250"
+"GradientInactiveTitle"="128 128 128"
+"GrayText"="166 166 166"
+"Hilight"="48 150 250"
+"HilightText"="255 255 255"
+"HotTrackingColor"="224 224 224"
+"InactiveBorder"="255 255 255"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="200 200 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="255 255 255"
+"MenuBar"="255 255 255"
+"MenuHilight"="48 150 250"
+"MenuText"="0 0 0"
+"Scrollbar"="255 255 255"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="158 158 158"
+"WindowText"="0 0 0"
+
+[Control Panel\\Desktop] 1774295196
+#time=1dcbafdc27294f4
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,02,80,12,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1774295196
+#time=1dcbafdc27293b4
+"BorderWidth"="1"
+"CaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,00,\
+  00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,\
+  00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="18"
+"CaptionWidth"="18"
+"IconFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,00,\
+  44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,00,\
+  44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="18"
+"MenuWidth"="18"
+"MessageFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,\
+  00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="0"
+"ScrollHeight"="17"
+"ScrollWidth"="17"
+"SmCaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="15"
+"SmCaptionWidth"="15"
+"StatusFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,\
+  00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[Control Panel\\International] 1774295186
+#time=1dcbafdbc5f3176
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"Locale"="00000409"
+"LocaleName"="en-US"
+"NumShape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM d, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sShortTime"="h:mm tt"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\International\\Geo] 1774295186
+#time=1dcbafdbc5f3248
+"Name"="US"
+"Nation"="244"
+
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1774295186
+#time=1dcbafdbc5f280c
+"Currencies"="USD"
+
+[Control Panel\\Keyboard] 1774295186
+#time=1dcbafdbc95e9a0
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1774295186
+#time=1dcbafdbc95fa80
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1774295186
+#time=1dcbafdbc95ce66
+"Beep"="Yes"
+
+[Environment] 1774295193
+#time=1dcbafdc096dbea
+"TEMP"="C:\\users\\root\\Temp"
+"TMP"="C:\\users\\root\\Temp"
+
+[Keyboard Layout\\Preload] 1774295186
+#time=1dcbafdbc95c4d4
+"1"="00000409"
+
+[Software] 1774337098
+#time=1dcbb5f521af04a
+#class=""
+
+[Software\\AcoustIDPlugin] 1774307259
+#time=1dcbb19d8a00cb8
+"UserAPIKey"="9OVb0oTEI9"
+
+[Software\\AWSoftware\\EACU] 1774307058
+#time=1dcbb1960bc0c88
+"InstallPath"="C:\\Program Files\\Exact Audio Copy\\"
+
+[Software\\AWSoftware\\EACU\\Compression Options] 1774342375
+#time=1dcbb6b9b20ce20
+"AddCoverToID3V2"=hex:ff
+"CoolMP3Option"=hex:00,00,00,00
+"CoverFolder"="cover"
+"DecompressionOffset"=hex:00,00,00,00
+"DoID3Unsync"=hex:00
+"ExternalEncodeRate"=hex:00,04,00,00
+"ExternalEncodeRate2nd"=hex:80,00,00,00
+"ExternalEncoderCheckReturnCode"=hex:ff
+"ExternalEncoderCheckReturnCode2nd"=hex:00
+"ExternalEncoderCreateCRC"=hex:00
+"ExternalEncoderCreateCRC2nd"=hex:ff
+"ExternalEncoderDeleteSource"=hex:ff
+"ExternalEncoderExtension"="flac"
+"ExternalEncoderExtension2nd"="mp3"
+"ExternalEncoderHQ"=hex:ff
+"ExternalEncoderHQ2nd"=hex:ff
+"ExternalEncoderID3Tag"=hex:00
+"ExternalEncoderID3Tag2nd"=hex:ff
+"ExternalEncoderOptions"="-8 -V -T \"ARTIST=%artist%\" -T \"TITLE=%title%\" -T \"ALBUM=%albumtitle%\" -T \"DATE=%year%\" -T \"TRACKNUMBER=%tracknr%\" -T \"GENRE=%genre%\" -T \"PERFORMER=%albuminterpret%\" -T \"COMPOSER=%composer%\" -T \"ALBUMARTIST=%albumartist%\" -T \"DISCNUMBER=%cdnumber%\" -T \"TOTALDISCS=%totalcds%\" -T \"TOTALTRACKS=%numtracks%\" -T \"COMMENT=%comment%\" %source% -o %dest%"
+"ExternalEncoderOptions2nd"=""
+"ExternalEncoderProgram"="C:\\Program Files\\Exact Audio Copy\\Flac\\flac.exe"
+"ExternalEncoderProgram2nd"="MP3Encoder.exe"
+"ExternalEncoderType"=hex:14,00,00,00
+"ExternalEncoderType2nd"=hex:00,00,00,00
+"GogoDisableFilter"=hex:00
+"GogoEmphasis"=hex:00,00,00,00
+"GogoNumberCPU"=hex:01,00,00,00
+"GogoOutputMode"=hex:01,00,00,00
+"GogoUsePsycho"=hex:ff
+"GogoVBRQuality"=hex:05,00,00,00
+"ID3CommentFieldText"="Exact Audio Copy"
+"ID3CommentFieldType"=hex:04,00,00,00
+"ID3FilenameReplaceSpaces"=hex:00
+"ID3FileNamingConvention"="%T - %A"
+"ID3V2Padding"=hex:04,00,00,00
+"InternalAddNoHeader"=hex:00
+"InternalFileExtension"=".raw"
+"LAMEABRMode"=hex:00,00,00,00
+"LAMEAddCRC"=hex:00
+"LAMEMaxVBR"=hex:09,00,00,00
+"LAMEOutputMode"=hex:01,00,00,00
+"LAMEQuality"=hex:02,00,00,00
+"LAMEVBRQuality"=hex:05,00,00,00
+"LAMEWriteVBRHeader"=hex:ff
+"NumEncodingThreads"=hex:01,00,00,00
+"SleepCompressionQueue"=hex:00
+"UseDecompressionOffset"=hex:00
+"UseExternalEncoder"=hex:ff
+"UseExternalEncoder2nd"=hex:00
+"UseID3V11"=hex:ff
+"UseID3V2"=hex:ff
+"UseLAMEDecoder"=hex:ff
+"UseTracknumberTotal"=hex:00
+"V2.4.0"=hex:00
+"WriteCoverToFolder"=hex:ff
+"WriteID3UTF16"=hex:00
+"WriteV1Tags"=hex:ff
+
+[Software\\AWSoftware\\EACU\\Compression Options\\Internal WAV Routines] 1774301379
+#time=1dcbb0c27b633ee
+"CodecAddNoHeader"=hex:00
+"CodecFileExtension"=".raw"
+"CodecFormat"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CodecHighCompression"=hex:00
+"CodecTag"=hex:00,00
+
+[Software\\AWSoftware\\EACU\\Compression Options\\Microsoft IMA ADPCM CODEC] 1774341111
+#time=1dcbb68a9bcd210
+"CodecAddNoHeader"=hex:00
+"CodecFileExtension"=".raw"
+"CodecFormat"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CodecHighCompression"=hex:ff
+"CodecTag"=hex:00,00
+
+[Software\\AWSoftware\\EACU\\Drive Options\\PIONEER BD-RW   BDR-UD03 1.11] 1774337986
+#time=1dcbb6162f071d6
+"CDTextCapable"=hex:00,00
+"CloseMethod"=hex:00,00,00,00
+"CombinedSampleOffset"=hex:00,00,00,00
+"EmulateCache"=hex:00
+"ExtractionCommandSet"=hex:07,00
+"ExtractionMode"=hex:05,00
+"GapDetectionAccuracy"=dword:00000002
+"GapDetectionMode"=dword:00000000
+"NoBCDData"=hex:ff,00
+"OverReadLeadOut"=hex:00
+"SampleOffset"=hex:00,00,00,00
+"SecureMode"=hex:03,00
+"SpeedReduction"=hex:ff
+"SpeedSelection"=hex:ff,ff,ff,ff
+"SpinUpDrive"=hex:00
+"SwapChannel"=hex:00
+"SwapEndians"=hex:00
+"UseAccurateRip"=hex:ff
+"UseC2Correction"=hex:00
+"UseCombinedSampleOffset"=hex:00
+"WriteEject"=hex:00,00,00,00
+"WriteMode"=hex:00,00,00,00
+"WriteOffset"=hex:00,00,00,00
+"WriteOptions"=hex:00,00,00,00
+"WriteSpeed"=hex:ff,ff,ff,ff
+
+[Software\\AWSoftware\\EACU\\Extraction Options] 1774349759
+#time=1dcbb7ccc99a182
+"Add2SecondGap"=hex:ff
+"AddCDTextToCUESheet"=hex:ff
+"AddChecksumLogFile"=hex:ff
+"AskBeforeWriteOnCDCopy"=hex:00
+"AskOverwrite"=hex:00
+"AutoSaveStatus"=hex:ff
+"BackgroundExternalCompression"=hex:00
+"BeepWhenDone"=hex:ff
+"CatalogFadeInLength"=hex:05,00,00,00,00,00,00,00
+"CatalogFadeLength"=hex:05,00,00,00,00,00,00,00
+"CatalogLength"=hex:2d,00,00,00,00,00,00,00
+"CatalogStartPos"=hex:00,00,00,00,00,00,00,00
+"CDTextIncludeArtist"=hex:00
+"CDTextUpper"=hex:ff
+"CheckDensity"=hex:00
+"CheckReadCommandD4"=hex:00
+"CheckReadCommandD8"=hex:00
+"ConvertBMPToJPG"=hex:ff
+"CoolDown"=hex:00
+"CoolDownAfterMinutes"=hex:3c,00,00,00
+"CoolDownLength"=hex:0f,00,00,00
+"CorrectDialogBug"=hex:ff
+"DeleteFileOnCDCopy"=hex:ff
+"DetectUPC"=hex:00
+"DirectorySpecification"="Z:\\output\\"
+"DirectoryUse"=hex:00,00,00,00
+"DisableCDAutostart"=hex:ff
+"DisableCopyProtection"=hex:00
+"EjectWhenDone"=hex:00
+"ExtractionPriority"=hex:01,00,00,00
+"FileNameReplaceSpaces"=hex:00
+"FileNameReplaceSpaces2nd"=hex:00
+"FileNamingConvention"="%tracknr2% %title%"
+"FileNamingConvention2nd"="%tracknr2% %title%"
+"FillUpMissingSamples"=hex:ff
+"GapsHandlingDefault"=hex:ff
+"HibernateOnly"=hex:ff
+"ID"=hex:de,39,17,41
+"IncludeGaps"=hex:ff
+"LockDrive"=hex:ff
+"NoCompressionWindow"=hex:ff
+"Normalize"=hex:00
+"NormalizeLowerBound"=hex:cb,6c,00,00
+"NormalizeToLevel"=hex:6f,7d,00,00
+"NormalizeUpperBound"=hex:b7,7e,00,00
+"NumberReads"=hex:05,00,00,00
+"OpenCDInfoDialog"=hex:ff
+"PowerDownWhenDone"=hex:00
+"RemoveSilence"=hex:00
+"ReplacementRule0"="\"''"
+"ReplacementRule1"="\\-"
+"ReplacementRule10"=""
+"ReplacementRule11"=""
+"ReplacementRule12"=""
+"ReplacementRule13"=""
+"ReplacementRule14"=""
+"ReplacementRule15"=""
+"ReplacementRule2"="/,"
+"ReplacementRule3"=":-"
+"ReplacementRule4"="*x"
+"ReplacementRule5"="?"
+"ReplacementRule6"="<["
+"ReplacementRule7"=">]"
+"ReplacementRule8"="|!"
+"ReplacementRule9"=""
+"ResetOnly"=hex:00
+"RetrieveCDDBOnUnknownCD"=hex:ff
+"ShowExtractionStatus"=hex:00
+"SkipAfterTime"=hex:00
+"SkipOnError"=hex:00
+"SkipTimeLimit"=hex:04,00,00,00
+"SyncTrackJunctions"=hex:ff
+"TimeDisplayUsingFrames"=hex:00
+"UseASAPISCSIInterface"=hex:00
+"UseCDRDAO"=hex:00
+"UseNativeSCSIInterface"=hex:ff
+"UseRawCDPlayMethod"=hex:ff
+"UseVariousFileNamingConvention"=hex:ff
+"UseVariousFileNamingConvention2nd"=hex:00
+"VariousFileNamingConvention"="%tracknr2% %artist% - %title%"
+"VariousFileNamingConvention2nd"="%tracknr2% %title%"
+"WaitForExternalCompressors"=hex:ff
+"WriteExtendedM3U"=hex:ff
+"WriteM3U"=hex:ff
+"WriteUTF8M3U"=hex:00
+
+[Software\\AWSoftware\\EACU\\Internet Options] 1774338011
+#time=1dcbb6171ddebec
+"ActualHostName"="http://freedb.freedb.org:80/~cddb/cddb.cgi"
+"AskForSubmission"=hex:ff
+"DatabaseExportLine"="%tracknr%;%artist%;%title%;%tracklen%"
+"EMailHostName"="anon.com"
+"EMailUserName"="anon"
+"LocalCDDBPath"="C:\\CDDB\\"
+"LyricsServer"="search.lyrics.ch"
+"MetadataPluginUsed"="8271734A-126F-44e9-AC9C-836449B39E51"
+"ProxyPort"=dword:00010000
+"ProxyServer"=""
+"ProxyUserName"=hex:74,00,7e,00,20,00,32,00,8c,00,3e,00,e8,00,aa,00,24,00,76,\
+  00,13,00,5e,00,9d,00,80,00,f7,00,32,00,a1,00,80,00,0b,00,8a,00,f4,00,30,00,\
+  fc,00,18,00,a7,00,3c,00,5d,00,d9,00,6f,00,ed,00,b3,00,a1,00,17,00,f5,00,5f,\
+  00,39,00,6b,00,95,00,d7,00,d1,00,a3,00,a2,00,b3,00,e0,00,80,00,5a,00,8c,00,\
+  b6,00,21,00,e6,00,77,00,ea,00,f5,00,f4,00,97,00,15,00,95,00,15,00,91,00,c5,\
+  00,a9,00,7d,00,81,00,f5,00,19,00,b5,00,11,00,7d,00,00,00,51,00,be,00,57,00,\
+  a1,00,f1,00,01,00,de,00,25,00,f0,00,af,00,bc,00,d1,00,72,00,6a,00,34,00,96,\
+  00,30,00,22,00,0c,00,0e,00,14,00,4a,00,e8,00,95,00,28,00,8f,00,fa,00,43,00,\
+  a4,00,e1,00,5e,00,7f,00,7c,00,65,00,dd,00,b7,00,e9,00,54,00,29,00,8a,00,c7,\
+  00,37,00,a1,00,23,00,a5,00,0f,00,91,00,12,00,a9,00,84,00,13,00,f8,00,b5,00,\
+  5e,00,5e,00,d0,00,3a,00,bc,00,7e,00,a8,00,ea,00,32,00,4e,00,7a,00,76,00,f3,\
+  00,72,00,95,00,0f,00,43,00,27,00,42,00,cb,00,90,00,21,00,0c,00,ff,00,46,00,\
+  f3,00,f8,00,c9,00,b6,00,c1,00,4c,00,cb,00,90,00,cd,00,f6,00,db,00,d0,00,29,\
+  00,7e,00,63,00,6c,00,b1,00,09,00,02,00,31,00,44,00,b1,00,0e,00,d7,00,05,00,\
+  a1,00,4d,00,c9,00,b9,00,01,00,29,00,ee,00,9d,00,30,00,97,00,4e,00,d1,00,68,\
+  00,95,00,ba,00,2b,00,7f,00,f5,00,a3,00,d9,00,c0,00,51,00,fe,00,47,00,6c,00,\
+  dd,00,ea,00,c5,00,00,00,6f,00,e1,00,95,00,f9,00,4d,00,0f,00,1d,00,33,00,25,\
+  00,87,00,21,00,5a,00,c5,00,cc,00,57,00,23,00,bd,00,af,00,50,00,6e,00,0e,00,\
+  2e,00,76,00,0e,00,46,00,e6,00,36,00,46,00,16,00,c8,00,1e,00,5c,00,13,00,24,\
+  00,51,00,f1,00,13,00,9d,00,bf,00,b8,00,77,00,da,00,cf,00,63,00,b1,00,07,00,\
+  36,00,5f,00,44,00,2d,00,a2,00,23,00,00,00,8d,00,00,00
+"ProxyUserPassword"=hex:ca,00,bc,00,a6,00,38,00,ba,00,f4,00,06,00,90,00,b2,00,\
+  0c,00,18,00,2f,00,8a,00,99,00,0c,00,d3,00,1e,00,45,00,9c,00,37,00,f8,00,a4,\
+  00,20,00,2c,00,c2,00,0b,00,90,00,e3,00,11,00,c7,00,e5,00,cb,00,59,00,ef,00,\
+  e5,00,e7,00,a1,00,33,00,3d,00,df,00,b9,00,81,00,b6,00,f7,00,06,00,08,00,c2,\
+  00,54,00,0c,00,45,00,fa,00,2f,00,06,00,21,00,f0,00,95,00,15,00,95,00,1d,00,\
+  a1,00,95,00,39,00,cd,00,91,00,c5,00,99,00,e5,00,81,00,9f,00,14,00,95,00,72,\
+  00,51,00,e1,00,31,00,27,00,aa,00,41,00,1c,00,57,00,20,00,25,00,00,00,b2,00,\
+  5c,00,1e,00,98,00,ea,00,b4,00,7e,00,cc,00,22,00,d2,00,51,00,74,00,2b,00,d2,\
+  00,97,00,28,00,2d,00,b2,00,03,00,70,00,63,00,65,00,1f,00,2f,00,b8,00,7d,00,\
+  0e,00,2d,00,ff,00,49,00,9b,00,6d,00,b7,00,0b,00,1e,00,05,00,f0,00,6b,00,7c,\
+  00,a9,00,cc,00,c6,00,98,00,e2,00,b4,00,46,00,50,00,56,00,62,00,be,00,2a,00,\
+  84,00,1f,00,6e,00,9b,00,1f,00,13,00,29,00,b6,00,ef,00,a4,00,e9,00,48,00,cb,\
+  00,9e,00,17,00,0c,00,0d,00,86,00,dd,00,78,00,83,00,14,00,c1,00,9a,00,e7,00,\
+  84,00,8d,00,ca,00,d7,00,90,00,37,00,e3,00,ee,00,ed,00,84,00,b5,00,82,00,a9,\
+  00,35,00,11,00,fd,00,f1,00,59,00,21,00,4f,00,da,00,59,00,7c,00,9b,00,ca,00,\
+  dd,00,20,00,39,00,4e,00,61,00,67,00,0d,00,5b,00,1f,00,d4,00,95,00,d2,00,eb,\
+  00,00,00,a1,00,da,00,a1,00,ec,00,ed,00,f1,00,65,00,89,00,21,00,a7,00,55,00,\
+  a3,00,4d,00,0f,00,fb,00,4e,00,91,00,e8,00,e9,00,ab,00,25,00,09,00,ce,00,ee,\
+  00,8e,00,5e,00,56,00,6e,00,96,00,26,00,76,00,86,00,12,00,00,00,76,00,f2,00,\
+  27,00,68,00,77,00,e9,00,5b,00,c5,00,09,00,e4,00,73,00,6a,00,35,00,fb,00,e9,\
+  00,7d,00,2a,00,03,00,68,00,11,00,76,00,27,00,ec,00,00,00
+"RetryDifferentServer"=hex:00
+"UseLocalCDDB"=hex:00
+"UseProxy"=hex:00
+"UseProxyAuthentification"=hex:00
+"UseWindowsLocalCDDBFormat"=hex:ff
+
+[Software\\AWSoftware\\EACU\\Internet Options\\Hosts\\http://freedb.freedb.org:80/~cddb/cddb.cgi] 1774301379
+#time=1dcbb0c27b5b720
+@=""
+
+[Software\\AWSoftware\\EACU\\StartUp Options] 1774349523
+#time=1dcbb7c40097756
+"ActualCodec"=hex:00,00,00,00
+"ActualDriveAdapter"=hex:01,00,00,00
+"ActualDriveID"=hex:00,00,00,00
+"ActualDriveLUN"=hex:00,00,00,00
+"ActualPath"="Z:\\storage\\"
+"ActualVersion"="1.5"
+"AskGD3"=hex:00
+"ColumnsWidth"=hex:3c,00,00,00,78,00,00,00,78,00,00,00,78,00,00,00,50,00,00,00,\
+  50,00,00,00,50,00,00,00,50,00,00,00,50,00,00,00,50,00,00,00,50,00,00,00,50,\
+  00,00,00,28,00,00,00,64,00,00,00
+"ComparePath"=""
+"ContinueTrackNrFirstCD"=hex:00
+"ContinueTrackNrLastCDDB"=hex:13,0b,10,31
+"ContinueTrackNrLastTrackNr"=hex:13,00,00,00
+"CreateEnglishLogFile"=hex:ff
+"EasyGUI"=hex:00
+"NoDriveTypeAutoRun"=hex:00,00,00,00
+"NumRuns"=dword:0000000c
+"OptionsTabPositions"=hex:00,00,00,00,04,00,00,00,00,00,00,00,01,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ProcessPath"=""
+"ProfilesPath"=""
+"RecordPath"=""
+"ShowAlbumArt"=hex:ff
+"ShowHintWindow"=hex:00
+"StandardWriter"=hex:00,00,00,00
+"UseLanguage"="47AB3DF2"
+"UseProfile"=""
+"WAVWindowPosition"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"WindowPosition"=hex:c8,00,00,00,3e,00,00,00,88,04,00,00,87,02,00,00
+"WindowPositionComplete"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,c8,00,00,00,3e,00,00,00,88,04,00,00,87,\
+  02,00,00
+"WritePositionComplete"=hex:00,00,00,00,00,00,00,00,00,00,00,00,f1,d8,ff,ff,ff,\
+  ff,ff,ff,f1,d8,ff,ff,ff,ff,ff,ff,f1,d8,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,\
+  ff,ff
+
+[Software\\AWSoftware\\EACU\\WaveEditor Options] 1774301379
+#time=1dcbb0c27b5e8ee
+"AnalyseFFTSize"=hex:09,00,00,00
+"CompareMoreExact"=hex:ff
+"CorrectSpectralSelection"=hex:ff
+"CreateNoiseFile"=hex:00
+"CreateProfile"=hex:00
+"dBMinDisplay"=hex:60,ff,ff,ff
+"DisplayNoLevelMeter"=hex:00
+"DoubleChannelOnPlayback"=hex:ff
+"EchoAmplify"=hex:46,00,00,00,00,00,00,00
+"EchoDelay"=hex:74,22,00,00,00,00,00,00
+"EnableUndo"=hex:ff
+"EqualizerValues"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FadeEndValue"=hex:00,00,00,00
+"FadeLogarithmic"=hex:00
+"FadeStartValue"=hex:ff,7f,00,00
+"FlangeAmplify"=hex:46,00,00,00,00,00,00,00
+"FlangeDelay"=hex:3a,11,00,00,00,00,00,00
+"FlangePeriod"=hex:b9,01,00,00,00,00,00,00
+"FreeMemoryBeforeLoopRecording"=hex:ff
+"LogarithmicDisplay"=hex:00
+"LoopRecordLength"=dword:00000029
+"LowerGlitchBound"=hex:00,04,00,00
+"MixEndValue"=hex:00,00,00,00,00,00,00,00
+"MixLocking"=hex:00
+"MixStartValue"=hex:00,00,00,00,00,00,00,00
+"NoiseReductionAttenuation"=hex:78,00,00,00
+"NoiseReductionThreshold"=hex:80,02,00,00
+"PhaseAmplify"=hex:46,00,00,00,00,00,00,00
+"PhaseDelay"=hex:b9,01,00,00,00,00,00,00
+"PopLength"=hex:00,02,00,00
+"PopSensitivity"=hex:00,00,00,00,00,00,18,40
+"ReverbAmplify"=hex:3c,00,00,00,00,00,00,00,46,00,00,00,00,00,00,00,4e,00,00,\
+  00,00,00,00,00,41,00,00,00,00,00,00,00,2b,00,00,00,00,00,00,00,1b,00,00,00,\
+  00,00,00,00
+"ReverbDelay"=hex:0a,00,00,00,00,00,00,00,7c,00,00,00,00,00,00,00,cb,00,00,00,\
+  00,00,00,00,87,01,00,00,00,00,00,00,5d,02,00,00,00,00,00,00,b8,03,00,00,00,\
+  00,00,00
+"ScrollWave"=hex:ff
+"TempPath"="C:\\users\\root\\Temp\\"
+"TimeAxisType"=hex:02,00,00,00
+"UndoPath"="C:\\users\\root\\Temp\\"
+"UseMemoryProcessing"=hex:00
+"UseUndo"=hex:ff
+"ValueAxisType"=hex:00,00,00,00
+"WindowFunction"=hex:00,00,00,00
+
+[Software\\CDCoverDownloader] 1774337023
+#time=1dcbb5f25177406
+"CoverDownloaderAction"=dword:00000002
+"FreeDBServer"="http://freedb.freedb.org:80/~cddb/cddb.cgi"
+"LyricsDownloaderAction"=dword:00000000
+
+[Software\\CUETools\\EACPugin] 1774338009
+#time=1dcbb61711975e6
+"CoversSearch"="Large"
+"CoversSearchMode"="Extensive"
+"MetadataSearch"="Extensive"
+"MetadataWindowSize"="500, 320"
+
+[Software\\GD3MetadataPlugin] 1774337008
+#time=1dcbb5f1c264e8a
+"GD3Password"=hex:7b,30,2b,ee,86,82,3a,5c,3b,72,36,38,fe,4f,5c,14
+"GD3Username"=""
+
+[Software\\Illustrate] 1774301365
+#time=1dcbb0c1f9792b6
+#class="REG_DWORD"
+
+[Software\\Illustrate\\dBpowerAMP] 1774336964
+#time=1dcbb5f01e49fea
+#class="REG_SZ"
+"CD-DriveSampleOffset-D:\\   [PIONEER  - BD-RW   BDR-UD03]"=dword:0000029b
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1774295194
+#time=1dcbafdc0fefa2c
+"Search Page"="https://www.google.com"
+"Start Page"="https://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1774295191
+#time=1dcbafdbf267b80
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1774295194
+#time=1dcbafdc0fefbda
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1774295194
+#time=1dcbafdc1020f3c
+
+[Software\\Microsoft\\SQMClient] 1774300532
+#time=1dcbb0a2f03b86c
+"UserId"="{A646BF2A-A2B0-4DA7-B7F6-343737B43EF7}"
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1774300533
+#time=1dcbb0a2f8a6b0a
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1774300533
+#time=1dcbb0a2f8a6c4a
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1774300533
+#time=1dcbb0a2f8a6d76
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1774300533
+#time=1dcbb0a2fa85476
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1774300533
+#time=1dcbb0a2fa855c0
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1774300533
+#time=1dcbb0a2fa85714
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1774300533
+#time=1dcbb0a2f8a74f6
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1774300533
+#time=1dcbb0a2f8a7622
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1774300533
+#time=1dcbb0a2f8a7744
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1774300533
+#time=1dcbb0a2f88e3f2
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1774300533
+#time=1dcbb0a2f88e53c
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1774300533
+#time=1dcbb0a2f88e672
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1774300533
+#time=1dcbb0a2f8a7e88
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1774300533
+#time=1dcbb0a2f8a7faa
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1774300533
+#time=1dcbb0a2f8a80d6
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1774338112
+#time=1dcbb61ae4fdeaa
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\LastVisitedMRU] 1774338450
+#time=1dcbb6277c9ccfa
+"a"=hex:45,00,41,00,43,00,2e,00,65,00,78,00,65,00,00,00,5a,00,3a,00,5c,00,73,\
+  00,74,00,6f,00,72,00,61,00,67,00,65,00,00,00
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1774295193
+#time=1dcbafdc07f3076
+"Administrative Tools"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\root\\AppData\\Roaming"
+"Cache"="C:\\users\\root\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"="C:\\users\\root\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"="C:\\users\\root\\Desktop"
+"Favorites"="C:\\users\\root\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\root\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"="C:\\users\\root\\AppData\\Local"
+"My Music"="C:\\users\\root\\Music"
+"My Pictures"="C:\\users\\root\\Pictures"
+"My Videos"="C:\\users\\root\\Videos"
+"NetHood"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"="C:\\users\\root\\Documents"
+"PrintHood"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\root\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\root\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\root\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\root\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\root\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\root\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\root\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1774295193
+#time=1dcbafdc07f0eb6
+"Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
+"Cache"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\AppData\\Local"
+"My Music"=str(2):"%USERPROFILE%\\Music"
+"My Pictures"=str(2):"%USERPROFILE%\\Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\Videos"
+"NetHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"=str(2):"%USERPROFILE%\\Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1774295193
+#time=1dcbafdc0dadc0a
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1774295193
+#time=1dcbafdc0dad8fe
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1774295193
+#time=1dcbafdc0dad6ec
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1774295193
+#time=1dcbafdc0dad43a
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1774295193
+#time=1dcbafdc0dad962
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1774295193
+#time=1dcbafdc0dcf044
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1774300443
+#time=1dcbb09f9aab904
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"2001"=dword:00000003
+"2004"=dword:00000003
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1774300443
+#time=1dcbb09f9aa9b68
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"2001"=dword:00000000
+"2004"=dword:00000000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1774300443
+#time=1dcbb09f9aa7f3e
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"2001"=dword:00000000
+"2004"=dword:00000000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1774300443
+#time=1dcbb09f9aa694a
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"2001"=dword:00000000
+"2004"=dword:00000000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1774300443
+#time=1dcbb09f9aa449c
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"2001"=dword:00000003
+"2004"=dword:00000003
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer] 1774337708
+#time=1dcbb60bd7f655e
+"NoDriveTypeAutoRun"=hex:20,00,00,00
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1774295194
+#time=1dcbafdc100c604
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1774295196
+#time=1dcbafdc271e2a2
+"ColorName"="Blue"
+"DllName"="C:\\windows\\resources\\themes\\light\\light.msstyles"
+"FlatMenu"=dword:00000000
+"GradientCaption"=dword:00000001
+"IconTitleFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"LoadedBefore"="1"
+"NonClientMetrics"=hex:f8,01,00,00,01,00,00,00,10,00,00,00,10,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,\
+  00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,\
+  ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,\
+  22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,00,44,00,6c,00,67,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,\
+  00,68,00,65,00,6c,00,6c,00,20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00
+"SizeName"="NormalSize"
+"ThemeActive"="1"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1774295196
+#time=1dcbafdc271c1fa
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"Background"="58 110 165"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="212 208 200"
+"MenuBar"="212 208 200"
+"MenuHilight"="10 36 106"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1774300533
+#time=1dcbb0a2f859d28
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1774295194
+#time=1dcbafdc1023318
+"ProgId"="ftp"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1774295194
+#time=1dcbafdc1023a3e
+"ProgId"="http"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1774295194
+#time=1dcbafdc102416e
+"ProgId"="https"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1774295194
+#time=1dcbafdc100ca28
+
+[Software\\Wine\\AppDefaults] 1774295186
+#time=1dcbafdbc98a596
+
+[Software\\Wine\\Debug] 1774295194
+#time=1dcbafdc1013832
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DllOverrides] 1774300713
+#time=1dcbb0a9ae3683e
+"*mscoree"="native"
+"*mscorwks"="native"
+
+[Software\\Wine\\FileOpenAssociations] 1774295196
+#time=1dcbafdc2a91dd0
+
+[Software\\Wine\\Fonts] 1774349751
+#time=1dcbb7cc792fa76
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1774295186
+#time=1dcbafdbc958b36
+"C059-BdIta (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\C059-BdIta.otf"
+"C059-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\C059-Bold.otf"
+"C059-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\C059-Italic.otf"
+"C059-Roman (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\C059-Roman.otf"
+"D050000L (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\D050000L.otf"
+"DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono-Bold.ttf"
+"DejaVu Serif (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif-Bold.ttf"
+"NimbusMonoPS-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusMonoPS-Bold.otf"
+"NimbusMonoPS-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusMonoPS-BoldItalic.otf"
+"NimbusMonoPS-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusMonoPS-Italic.otf"
+"NimbusMonoPS-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusMonoPS-Regular.otf"
+"NimbusRoman-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusRoman-Bold.otf"
+"NimbusRoman-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusRoman-BoldItalic.otf"
+"NimbusRoman-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusRoman-Italic.otf"
+"NimbusRoman-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusRoman-Regular.otf"
+"NimbusSans-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSans-Bold.otf"
+"NimbusSans-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSans-BoldItalic.otf"
+"NimbusSans-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSans-Italic.otf"
+"NimbusSans-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSans-Regular.otf"
+"NimbusSansNarrow-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSansNarrow-Bold.otf"
+"NimbusSansNarrow-BoldOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSansNarrow-BoldOblique.otf"
+"NimbusSansNarrow-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSansNarrow-Oblique.otf"
+"NimbusSansNarrow-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusSansNarrow-Regular.otf"
+"P052-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\P052-Bold.otf"
+"P052-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\P052-BoldItalic.otf"
+"P052-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\P052-Italic.otf"
+"P052-Roman (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\P052-Roman.otf"
+"Standard Symbols PS (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\StandardSymbolsPS.otf"
+"URWBookman-Demi (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWBookman-Demi.otf"
+"URWBookman-DemiItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWBookman-DemiItalic.otf"
+"URWBookman-Light (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWBookman-Light.otf"
+"URWBookman-LightItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWBookman-LightItalic.otf"
+"URWGothic-Book (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-Book.otf"
+"URWGothic-BookOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-BookOblique.otf"
+"URWGothic-Demi (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-Demi.otf"
+"URWGothic-DemiOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-DemiOblique.otf"
+"Z003-MediumItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\Z003-MediumItalic.otf"
+
+[Software\\Wine\\MenuFiles] 1774300276
+#time=1dcbb0996300028
+"\\\\?\\Z:\\root\\.config\\menus\\applications-merged\\wine-Programs-Exact Audio Copy-Exact Audio Copy.menu"="C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Exact Audio Copy\\Exact Audio Copy.lnk"
+"\\\\?\\Z:\\root\\.local\\share\\applications\\wine\\Programs\\Exact Audio Copy\\Exact Audio Copy.desktop"="C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Exact Audio Copy\\Exact Audio Copy.lnk"
+"C:\\users\\root\\Desktop\\Exact Audio Copy.desktop"="C:\\users\\Public\\Desktop\\Exact Audio Copy.lnk"
+
+[Software\\Wine\\WineDbg] 1774301373
+#time=1dcbb0c2426afa6
+
+[Volatile Environment] 1774349751
+#time=1dcbb7cc7ca3108
+"APPDATA"="C:\\users\\root\\AppData\\Roaming"
+"CLIENTNAME"="Console"
+"HOMEDRIVE"="C:"
+"HOMEPATH"="\\users\\root"
+"HOMESHARE"=""
+"LOCALAPPDATA"="C:\\users\\root\\AppData\\Local"
+"LOGONSERVER"="\\\\88F9D78E3D9A"
+"SESSIONNAME"="Console"
+"USERDOMAIN"="88F9D78E3D9A"
+"USERNAME"="root"
+"USERPROFILE"="C:\\users\\root"

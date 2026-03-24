@@ -1,0 +1,962 @@
+Finding Offset for D:\   [PIONEER  - BD-RW   BDR-UD03] - 13 Tracks    [FreedB  9c0ef10e,  Added  0012a336,   Multi  00c63a28]
+
+
+  Track 1 - CRC matching 5c9552df [confidence 200]
+  Track 1 - CRC matching b65cb31a [confidence 200]
+  Track 1 - CRC matching 6913236e [confidence 200]
+  Track 1 - CRC matching e836e58b [confidence 118]
+  Track 1 - CRC matching cbedf11c [confidence 116]
+  Track 1 - CRC matching 5d624a01 [confidence 38]
+  Track 1 - CRC matching 8dd0938a [confidence 17]
+  Track 1 - CRC matching bd0e9142 [confidence 16]
+  Track 1 - CRC matching f5f2073c [confidence 10]
+  Track 1 - CRC matching 145ba3bc [confidence 9]
+  Track 1 - CRC matching 3324fe30 [confidence 9]
+  Track 1 - CRC matching 9e806c2f [confidence 8]
+  Track 1 - CRC matching e9eecae8 [confidence 8]
+  Track 1 - CRC matching 0752f329 [confidence 7]
+  Track 1 - CRC matching 814beee6 [confidence 7]
+  Track 1 - CRC matching b2496c5e [confidence 6]
+  Track 1 - CRC matching 102027db [confidence 6]
+  Track 1 - CRC matching 6a934725 [confidence 6]
+  Track 1 - CRC matching 242525a8 [confidence 6]
+  Track 1 - CRC matching 82bb9c18 [confidence 6]
+  Track 1 - CRC matching 62cd89b2 [confidence 5]
+  Track 1 - CRC matching 699e5c04 [confidence 4]
+  Track 1 - CRC matching 4b549bd1 [confidence 4]
+  Track 1 - CRC matching 26d96d36 [confidence 3]
+  Track 1 - CRC matching 03b78795 [confidence 3]
+  Track 1 - CRC matching 4c78a177 [confidence 3]
+  Track 1 - CRC matching 8a10c406 [confidence 2]
+  Track 1 - CRC matching 32ec9f81 [confidence 2]
+  Track 1 - CRC matching 06ec28ea [confidence 2]
+  Track 1 - CRC matching eab50a4c [confidence 2]
+  Track 1 - CRC matching e129d9ff [confidence 2]
+  Track 1 - CRC matching 9f6423ea [confidence 2]
+  Track 1 - CRC matching 12b56e62 [confidence 2]
+  Track 1 - CRC matching 00000000 [confidence 2]
+  Track 1 - CRC matching 00000000 [confidence 2]
+  Track 1 - CRC matching 00000000 [confidence 2]
+  Track 1 - CRC matching 00000000 [confidence 2]
+  Track 1 - CRC matching 00000000 [confidence 0]
+  Track 1 - CRC matching 00000000 [confidence 0]
+  Track 1 - CRC matching 00000000 [confidence 0]
+  Track 1 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 642 samples (2568 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 737 samples (2948 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 2 - CRC matching 9535cfa0 [confidence 200]
+  Track 2 - CRC matching 511d5566 [confidence 200]
+  Track 2 - CRC matching f491daed [confidence 200]
+  Track 2 - CRC matching 66b0e531 [confidence 119]
+  Track 2 - CRC matching ee0ed6f8 [confidence 117]
+  Track 2 - CRC matching 0e484b50 [confidence 39]
+  Track 2 - CRC matching ebfb9227 [confidence 17]
+  Track 2 - CRC matching 345fee31 [confidence 16]
+  Track 2 - CRC matching f94db128 [confidence 10]
+  Track 2 - CRC matching 0c5e4924 [confidence 9]
+  Track 2 - CRC matching b8ae3aea [confidence 9]
+  Track 2 - CRC matching 4cc8d54d [confidence 8]
+  Track 2 - CRC matching 1dc58161 [confidence 8]
+  Track 2 - CRC matching 052b29db [confidence 8]
+  Track 2 - CRC matching 2e1165be [confidence 7]
+  Track 2 - CRC matching b3186353 [confidence 7]
+  Track 2 - CRC matching 1d7dd1c2 [confidence 7]
+  Track 2 - CRC matching 2ab9034c [confidence 6]
+  Track 2 - CRC matching 165f17b9 [confidence 5]
+  Track 2 - CRC matching 38a64608 [confidence 5]
+  Track 2 - CRC matching 00d730fc [confidence 5]
+  Track 2 - CRC matching 4992ed2e [confidence 4]
+  Track 2 - CRC matching 68c9e426 [confidence 4]
+  Track 2 - CRC matching f6279a40 [confidence 3]
+  Track 2 - CRC matching 68aa39c6 [confidence 3]
+  Track 2 - CRC matching 53177eca [confidence 2]
+  Track 2 - CRC matching 4243930d [confidence 2]
+  Track 2 - CRC matching 2635c03f [confidence 2]
+  Track 2 - CRC matching 4a26f164 [confidence 2]
+  Track 2 - CRC matching edaf5199 [confidence 2]
+  Track 2 - CRC matching 611bc84b [confidence 2]
+  Track 2 - CRC matching 2bbf45f9 [confidence 2]
+  Track 2 - CRC matching b0983ec9 [confidence 2]
+  Track 2 - CRC matching 00000000 [confidence 2]
+  Track 2 - CRC matching 00000000 [confidence 2]
+  Track 2 - CRC matching 00000000 [confidence 2]
+  Track 2 - CRC matching 00000000 [confidence 2]
+  Track 2 - CRC matching 00000000 [confidence 0]
+  Track 2 - CRC matching 00000000 [confidence 0]
+  Track 2 - CRC matching 00000000 [confidence 0]
+  Track 2 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 642 samples (2568 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 3 - CRC matching 044c3695 [confidence 200]
+  Track 3 - CRC matching 4f5850ef [confidence 200]
+  Track 3 - CRC matching 2f77ff24 [confidence 200]
+  Track 3 - CRC matching 5b0b0e89 [confidence 119]
+  Track 3 - CRC matching c0f77494 [confidence 116]
+  Track 3 - CRC matching 17fdcfc2 [confidence 39]
+  Track 3 - CRC matching 9fe2bb85 [confidence 17]
+  Track 3 - CRC matching 284678e8 [confidence 16]
+  Track 3 - CRC matching 1ed9d496 [confidence 10]
+  Track 3 - CRC matching c00fc3bf [confidence 9]
+  Track 3 - CRC matching 8f01bf5d [confidence 9]
+  Track 3 - CRC matching 5664d356 [confidence 8]
+  Track 3 - CRC matching aaca5dfc [confidence 8]
+  Track 3 - CRC matching 5ee42ad1 [confidence 8]
+  Track 3 - CRC matching 5b5f046a [confidence 7]
+  Track 3 - CRC matching 58d59346 [confidence 7]
+  Track 3 - CRC matching d3128367 [confidence 6]
+  Track 3 - CRC matching 29653604 [confidence 6]
+  Track 3 - CRC matching f7207b94 [confidence 6]
+  Track 3 - CRC matching 2497fe2d [confidence 6]
+  Track 3 - CRC matching 98b2c16a [confidence 5]
+  Track 3 - CRC matching 976b928c [confidence 4]
+  Track 3 - CRC matching 8fc37444 [confidence 4]
+  Track 3 - CRC matching b9bdc55e [confidence 3]
+  Track 3 - CRC matching 39b95584 [confidence 3]
+  Track 3 - CRC matching 2fa1b7f8 [confidence 2]
+  Track 3 - CRC matching 2f37cc61 [confidence 2]
+  Track 3 - CRC matching 8877ca19 [confidence 2]
+  Track 3 - CRC matching eb2d25a3 [confidence 2]
+  Track 3 - CRC matching e7fb7cb0 [confidence 2]
+  Track 3 - CRC matching ead7c146 [confidence 2]
+  Track 3 - CRC matching 9f2c020a [confidence 2]
+  Track 3 - CRC matching 3f128047 [confidence 2]
+  Track 3 - CRC matching 00000000 [confidence 2]
+  Track 3 - CRC matching 00000000 [confidence 2]
+  Track 3 - CRC matching 00000000 [confidence 2]
+  Track 3 - CRC matching 00000000 [confidence 2]
+  Track 3 - CRC matching 00000000 [confidence 2]
+  Track 3 - CRC matching 00000000 [confidence 0]
+  Track 3 - CRC matching 00000000 [confidence 0]
+  Track 3 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 642 samples (2568 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 4 - CRC matching 0af7ad69 [confidence 200]
+  Track 4 - CRC matching 9b1a336a [confidence 200]
+  Track 4 - CRC matching 7ee8543c [confidence 200]
+  Track 4 - CRC matching 07488be7 [confidence 119]
+  Track 4 - CRC matching 21c248b3 [confidence 116]
+  Track 4 - CRC matching 2cff62c4 [confidence 39]
+  Track 4 - CRC matching c030f971 [confidence 17]
+  Track 4 - CRC matching 5263c47e [confidence 16]
+  Track 4 - CRC matching 14a831af [confidence 10]
+  Track 4 - CRC matching df755a28 [confidence 9]
+  Track 4 - CRC matching 011a30d9 [confidence 9]
+  Track 4 - CRC matching a71bd414 [confidence 8]
+  Track 4 - CRC matching 3abd876d [confidence 8]
+  Track 4 - CRC matching e3cd29c5 [confidence 8]
+  Track 4 - CRC matching 93fe8dfd [confidence 7]
+  Track 4 - CRC matching b52dfaef [confidence 7]
+  Track 4 - CRC matching dba94136 [confidence 6]
+  Track 4 - CRC matching 6d7b5aab [confidence 6]
+  Track 4 - CRC matching 9090a2d7 [confidence 6]
+  Track 4 - CRC matching 4292f7c5 [confidence 6]
+  Track 4 - CRC matching d7747051 [confidence 5]
+  Track 4 - CRC matching a902efce [confidence 4]
+  Track 4 - CRC matching ebfa80c9 [confidence 4]
+  Track 4 - CRC matching c48e6795 [confidence 3]
+  Track 4 - CRC matching f5897f06 [confidence 2]
+  Track 4 - CRC matching 454dab13 [confidence 2]
+  Track 4 - CRC matching 06df2199 [confidence 2]
+  Track 4 - CRC matching 606e1e34 [confidence 2]
+  Track 4 - CRC matching fd4cad83 [confidence 2]
+  Track 4 - CRC matching 5581260d [confidence 2]
+  Track 4 - CRC matching 1202eb70 [confidence 2]
+  Track 4 - CRC matching 6661ae19 [confidence 2]
+  Track 4 - CRC matching 1eea3b2a [confidence 2]
+  Track 4 - CRC matching 00000000 [confidence 2]
+  Track 4 - CRC matching 00000000 [confidence 2]
+  Track 4 - CRC matching 00000000 [confidence 2]
+  Track 4 - CRC matching 00000000 [confidence 2]
+  Track 4 - CRC matching 00000000 [confidence 0]
+  Track 4 - CRC matching 00000000 [confidence 0]
+  Track 4 - CRC matching 00000000 [confidence 0]
+  Track 4 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 642 samples (2568 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 5 - CRC matching 597a291e [confidence 200]
+  Track 5 - CRC matching 45ca49dc [confidence 200]
+  Track 5 - CRC matching 9f1c8d1e [confidence 200]
+  Track 5 - CRC matching 85311844 [confidence 119]
+  Track 5 - CRC matching c41f1a2e [confidence 116]
+  Track 5 - CRC matching 2514719f [confidence 38]
+  Track 5 - CRC matching 44e4b15e [confidence 17]
+  Track 5 - CRC matching 83ba0a7c [confidence 16]
+  Track 5 - CRC matching 29482371 [confidence 10]
+  Track 5 - CRC matching 90cc39ba [confidence 9]
+  Track 5 - CRC matching 11e7a02f [confidence 9]
+  Track 5 - CRC matching cdc58837 [confidence 8]
+  Track 5 - CRC matching 9f529257 [confidence 8]
+  Track 5 - CRC matching 2ffe12ab [confidence 7]
+  Track 5 - CRC matching ff6df6cc [confidence 7]
+  Track 5 - CRC matching 07ef68c4 [confidence 7]
+  Track 5 - CRC matching 3284fd15 [confidence 6]
+  Track 5 - CRC matching 606e6f8e [confidence 6]
+  Track 5 - CRC matching 07989003 [confidence 6]
+  Track 5 - CRC matching 8d8061e8 [confidence 5]
+  Track 5 - CRC matching 69af983d [confidence 5]
+  Track 5 - CRC matching 7917dc2d [confidence 4]
+  Track 5 - CRC matching b2c402fb [confidence 4]
+  Track 5 - CRC matching cf05c805 [confidence 3]
+  Track 5 - CRC matching 0487e8e4 [confidence 3]
+  Track 5 - CRC matching 06096b76 [confidence 2]
+  Track 5 - CRC matching c30615f0 [confidence 2]
+  Track 5 - CRC matching e26acb05 [confidence 2]
+  Track 5 - CRC matching 5695e8e0 [confidence 2]
+  Track 5 - CRC matching 5b8a8496 [confidence 2]
+  Track 5 - CRC matching 402d8ad7 [confidence 2]
+  Track 5 - CRC matching a9d11ffe [confidence 2]
+  Track 5 - CRC matching 12605e22 [confidence 2]
+  Track 5 - CRC matching 00000000 [confidence 2]
+  Track 5 - CRC matching 00000000 [confidence 2]
+  Track 5 - CRC matching 00000000 [confidence 2]
+  Track 5 - CRC matching 00000000 [confidence 2]
+  Track 5 - CRC matching 00000000 [confidence 0]
+  Track 5 - CRC matching 00000000 [confidence 0]
+  Track 5 - CRC matching 00000000 [confidence 0]
+  Track 5 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 642 samples (2568 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 6 - CRC matching 6c0f1916 [confidence 200]
+  Track 6 - CRC matching 18795fbb [confidence 200]
+  Track 6 - CRC matching 85a6f371 [confidence 200]
+  Track 6 - CRC matching 0275bd4b [confidence 119]
+  Track 6 - CRC matching a0826c6a [confidence 112]
+  Track 6 - CRC matching b8e8b034 [confidence 39]
+  Track 6 - CRC matching 6327d2b0 [confidence 17]
+  Track 6 - CRC matching ce7923b4 [confidence 17]
+  Track 6 - CRC matching 431be9c0 [confidence 10]
+  Track 6 - CRC matching f066b0cb [confidence 9]
+  Track 6 - CRC matching 38f538f0 [confidence 9]
+  Track 6 - CRC matching ab1bdfcd [confidence 8]
+  Track 6 - CRC matching 33d16116 [confidence 8]
+  Track 6 - CRC matching 0a5a77d7 [confidence 8]
+  Track 6 - CRC matching e7d8a48b [confidence 7]
+  Track 6 - CRC matching a7d25960 [confidence 7]
+  Track 6 - CRC matching 20650a09 [confidence 6]
+  Track 6 - CRC matching 0e2029ae [confidence 6]
+  Track 6 - CRC matching 2c49e44e [confidence 6]
+  Track 6 - CRC matching dd57c7e3 [confidence 6]
+  Track 6 - CRC matching 8beabb38 [confidence 5]
+  Track 6 - CRC matching f149eefe [confidence 4]
+  Track 6 - CRC matching 40a96367 [confidence 4]
+  Track 6 - CRC matching 7555f39d [confidence 3]
+  Track 6 - CRC matching 120549eb [confidence 3]
+  Track 6 - CRC matching 71d88102 [confidence 3]
+  Track 6 - CRC matching 576f762e [confidence 2]
+  Track 6 - CRC matching bbfd9399 [confidence 2]
+  Track 6 - CRC matching 77067e03 [confidence 2]
+  Track 6 - CRC matching 712ac003 [confidence 2]
+  Track 6 - CRC matching fbe763f5 [confidence 2]
+  Track 6 - CRC matching fd312f58 [confidence 2]
+  Track 6 - CRC matching 378817df [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+  Track 6 - CRC matching 00000000 [confidence 2]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 642 samples (2568 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 7 - CRC matching f7159189 [confidence 200]
+  Track 7 - CRC matching 2b06183c [confidence 200]
+  Track 7 - CRC matching d19231ba [confidence 200]
+  Track 7 - CRC matching 5a4e5de5 [confidence 119]
+  Track 7 - CRC matching b1c0793e [confidence 113]
+  Track 7 - CRC matching 5fbf126d [confidence 38]
+  Track 7 - CRC matching 79f4febe [confidence 17]
+  Track 7 - CRC matching b8e53558 [confidence 16]
+  Track 7 - CRC matching a2d33c47 [confidence 10]
+  Track 7 - CRC matching 35371618 [confidence 9]
+  Track 7 - CRC matching 1723f6a7 [confidence 9]
+  Track 7 - CRC matching 1e283225 [confidence 8]
+  Track 7 - CRC matching d75bc261 [confidence 8]
+  Track 7 - CRC matching 5525da8f [confidence 8]
+  Track 7 - CRC matching f8a99b39 [confidence 8]
+  Track 7 - CRC matching 52d1b2e2 [confidence 7]
+  Track 7 - CRC matching ad84f5b9 [confidence 6]
+  Track 7 - CRC matching 1096625e [confidence 6]
+  Track 7 - CRC matching eefcc2c0 [confidence 5]
+  Track 7 - CRC matching cd6a7611 [confidence 5]
+  Track 7 - CRC matching ef253157 [confidence 5]
+  Track 7 - CRC matching 43d68add [confidence 4]
+  Track 7 - CRC matching 4bdc8a66 [confidence 4]
+  Track 7 - CRC matching 464d4986 [confidence 3]
+  Track 7 - CRC matching 8065f4aa [confidence 3]
+  Track 7 - CRC matching 5effc0dc [confidence 2]
+  Track 7 - CRC matching 172421bf [confidence 2]
+  Track 7 - CRC matching 008bda9c [confidence 2]
+  Track 7 - CRC matching bb8491bd [confidence 2]
+  Track 7 - CRC matching 03ce8ef4 [confidence 2]
+  Track 7 - CRC matching 30e59541 [confidence 2]
+  Track 7 - CRC matching 06fe63bd [confidence 2]
+  Track 7 - CRC matching 00000000 [confidence 2]
+  Track 7 - CRC matching 00000000 [confidence 2]
+  Track 7 - CRC matching 00000000 [confidence 2]
+  Track 7 - CRC matching 00000000 [confidence 2]
+  Track 7 - CRC matching 00000000 [confidence 0]
+  Track 7 - CRC matching 00000000 [confidence 0]
+  Track 7 - CRC matching 00000000 [confidence 0]
+  Track 7 - CRC matching 00000000 [confidence 0]
+  Track 7 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 8 - CRC matching 04de9cde [confidence 200]
+  Track 8 - CRC matching 4049622c [confidence 200]
+  Track 8 - CRC matching 6ab0e728 [confidence 200]
+  Track 8 - CRC matching 8a2791fa [confidence 119]
+  Track 8 - CRC matching cde7d4f4 [confidence 110]
+  Track 8 - CRC matching 23f773f1 [confidence 39]
+  Track 8 - CRC matching 9299a1d4 [confidence 17]
+  Track 8 - CRC matching aa69bac4 [confidence 16]
+  Track 8 - CRC matching 9514bbc6 [confidence 10]
+  Track 8 - CRC matching 6ba68ae5 [confidence 9]
+  Track 8 - CRC matching ff07cc6e [confidence 9]
+  Track 8 - CRC matching 2a001d21 [confidence 8]
+  Track 8 - CRC matching de5058d9 [confidence 8]
+  Track 8 - CRC matching 831f2232 [confidence 7]
+  Track 8 - CRC matching 0996ed85 [confidence 7]
+  Track 8 - CRC matching 997d9b22 [confidence 7]
+  Track 8 - CRC matching f55b1ccb [confidence 6]
+  Track 8 - CRC matching df34317a [confidence 6]
+  Track 8 - CRC matching f35a3d78 [confidence 6]
+  Track 8 - CRC matching 2950b469 [confidence 5]
+  Track 8 - CRC matching 9eb93400 [confidence 5]
+  Track 8 - CRC matching d4d1fddb [confidence 4]
+  Track 8 - CRC matching f7b4816f [confidence 4]
+  Track 8 - CRC matching d2e76578 [confidence 3]
+  Track 8 - CRC matching a545ea8e [confidence 3]
+  Track 8 - CRC matching 26d3f322 [confidence 2]
+  Track 8 - CRC matching 4c46213e [confidence 2]
+  Track 8 - CRC matching 3909e68f [confidence 2]
+  Track 8 - CRC matching 99b7e2f5 [confidence 2]
+  Track 8 - CRC matching a01784d1 [confidence 2]
+  Track 8 - CRC matching ab22c307 [confidence 2]
+  Track 8 - CRC matching 2472ef33 [confidence 2]
+  Track 8 - CRC matching 00000000 [confidence 2]
+  Track 8 - CRC matching 00000000 [confidence 2]
+  Track 8 - CRC matching 00000000 [confidence 2]
+  Track 8 - CRC matching 00000000 [confidence 2]
+  Track 8 - CRC matching 00000000 [confidence 2]
+  Track 8 - CRC matching 00000000 [confidence 0]
+  Track 8 - CRC matching 00000000 [confidence 0]
+  Track 8 - CRC matching 00000000 [confidence 0]
+  Track 8 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 9 - CRC matching 3d6e7001 [confidence 200]
+  Track 9 - CRC matching 5c2b1e31 [confidence 200]
+  Track 9 - CRC matching 7f94e88a [confidence 200]
+  Track 9 - CRC matching f8e02311 [confidence 119]
+  Track 9 - CRC matching d7b40bda [confidence 110]
+  Track 9 - CRC matching 44f67860 [confidence 39]
+  Track 9 - CRC matching ffdddfa3 [confidence 17]
+  Track 9 - CRC matching 2ae237ad [confidence 17]
+  Track 9 - CRC matching 0dc31fb7 [confidence 10]
+  Track 9 - CRC matching 507c09f0 [confidence 9]
+  Track 9 - CRC matching 70855038 [confidence 9]
+  Track 9 - CRC matching 4c981d17 [confidence 8]
+  Track 9 - CRC matching 16732325 [confidence 8]
+  Track 9 - CRC matching 234b4610 [confidence 8]
+  Track 9 - CRC matching ba914022 [confidence 7]
+  Track 9 - CRC matching 392bbae2 [confidence 7]
+  Track 9 - CRC matching 48e6a188 [confidence 6]
+  Track 9 - CRC matching f1ce1316 [confidence 6]
+  Track 9 - CRC matching 921bfd2d [confidence 6]
+  Track 9 - CRC matching c5bf328c [confidence 6]
+  Track 9 - CRC matching 114f8b19 [confidence 5]
+  Track 9 - CRC matching 9f55ffad [confidence 4]
+  Track 9 - CRC matching d9746ed2 [confidence 4]
+  Track 9 - CRC matching 862cb9e8 [confidence 3]
+  Track 9 - CRC matching 47b6fa9d [confidence 3]
+  Track 9 - CRC matching b3a426ce [confidence 2]
+  Track 9 - CRC matching 6eb7ad54 [confidence 2]
+  Track 9 - CRC matching 0425b74a [confidence 2]
+  Track 9 - CRC matching cc2f83a9 [confidence 2]
+  Track 9 - CRC matching 4ca16036 [confidence 2]
+  Track 9 - CRC matching 1580e011 [confidence 2]
+  Track 9 - CRC matching 7829db85 [confidence 2]
+  Track 9 - CRC matching 00000000 [confidence 2]
+  Track 9 - CRC matching 00000000 [confidence 2]
+  Track 9 - CRC matching 00000000 [confidence 2]
+  Track 9 - CRC matching 00000000 [confidence 2]
+  Track 9 - CRC matching 00000000 [confidence 2]
+  Track 9 - CRC matching 00000000 [confidence 0]
+  Track 9 - CRC matching 00000000 [confidence 0]
+  Track 9 - CRC matching 00000000 [confidence 0]
+  Track 9 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 10 - CRC matching 9524dccf [confidence 200]
+  Track 10 - CRC matching 988a6587 [confidence 200]
+  Track 10 - CRC matching e1c3d53a [confidence 200]
+  Track 10 - CRC matching 6a257fc7 [confidence 119]
+  Track 10 - CRC matching 381e1d9e [confidence 112]
+  Track 10 - CRC matching 03339e9e [confidence 39]
+  Track 10 - CRC matching 5c4a92ae [confidence 18]
+  Track 10 - CRC matching ab88b53f [confidence 17]
+  Track 10 - CRC matching cf9b2374 [confidence 10]
+  Track 10 - CRC matching 2c9922db [confidence 9]
+  Track 10 - CRC matching f7adeb77 [confidence 9]
+  Track 10 - CRC matching 8a0a9f09 [confidence 8]
+  Track 10 - CRC matching 82ec8208 [confidence 8]
+  Track 10 - CRC matching 62ff55a4 [confidence 7]
+  Track 10 - CRC matching 57b9cd88 [confidence 7]
+  Track 10 - CRC matching 006766f6 [confidence 7]
+  Track 10 - CRC matching e85e017e [confidence 6]
+  Track 10 - CRC matching d2750684 [confidence 6]
+  Track 10 - CRC matching fb931495 [confidence 6]
+  Track 10 - CRC matching 1ee98d0b [confidence 5]
+  Track 10 - CRC matching 587324a1 [confidence 5]
+  Track 10 - CRC matching 7828dd31 [confidence 4]
+  Track 10 - CRC matching 477e3503 [confidence 4]
+  Track 10 - CRC matching 673c780d [confidence 3]
+  Track 10 - CRC matching 74a52180 [confidence 3]
+  Track 10 - CRC matching 1c65707e [confidence 3]
+  Track 10 - CRC matching 40d7c677 [confidence 2]
+  Track 10 - CRC matching eaf90b51 [confidence 2]
+  Track 10 - CRC matching 8e7651a8 [confidence 2]
+  Track 10 - CRC matching 6eefc630 [confidence 2]
+  Track 10 - CRC matching af771223 [confidence 2]
+  Track 10 - CRC matching 9a8eabe7 [confidence 2]
+  Track 10 - CRC matching 00000000 [confidence 2]
+  Track 10 - CRC matching 00000000 [confidence 2]
+  Track 10 - CRC matching 00000000 [confidence 2]
+  Track 10 - CRC matching 00000000 [confidence 2]
+  Track 10 - CRC matching 00000000 [confidence 0]
+  Track 10 - CRC matching 00000000 [confidence 0]
+  Track 10 - CRC matching 00000000 [confidence 0]
+  Track 10 - CRC matching 00000000 [confidence 0]
+  Track 10 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 11 - CRC matching 4754eb4b [confidence 200]
+  Track 11 - CRC matching f851395a [confidence 200]
+  Track 11 - CRC matching 7ecfdaa0 [confidence 200]
+  Track 11 - CRC matching f1ce7fbb [confidence 118]
+  Track 11 - CRC matching 5a0a3d41 [confidence 109]
+  Track 11 - CRC matching b68c4a5f [confidence 38]
+  Track 11 - CRC matching f07557cd [confidence 17]
+  Track 11 - CRC matching 885d6755 [confidence 17]
+  Track 11 - CRC matching 5df941ee [confidence 10]
+  Track 11 - CRC matching af7ab4c7 [confidence 9]
+  Track 11 - CRC matching 4ccc35a1 [confidence 9]
+  Track 11 - CRC matching 0b960c8a [confidence 8]
+  Track 11 - CRC matching 1012104e [confidence 8]
+  Track 11 - CRC matching cef37517 [confidence 7]
+  Track 11 - CRC matching 29861b72 [confidence 7]
+  Track 11 - CRC matching b656c01d [confidence 7]
+  Track 11 - CRC matching e1492ff7 [confidence 6]
+  Track 11 - CRC matching 2b43d472 [confidence 6]
+  Track 11 - CRC matching 290a9e96 [confidence 5]
+  Track 11 - CRC matching 9ef92b66 [confidence 5]
+  Track 11 - CRC matching 6bf96338 [confidence 5]
+  Track 11 - CRC matching 689b79f0 [confidence 4]
+  Track 11 - CRC matching f964743d [confidence 4]
+  Track 11 - CRC matching 70f00f53 [confidence 3]
+  Track 11 - CRC matching 4bd816fb [confidence 3]
+  Track 11 - CRC matching a8260fcf [confidence 2]
+  Track 11 - CRC matching 2aacb0d8 [confidence 2]
+  Track 11 - CRC matching 2d4aabf4 [confidence 2]
+  Track 11 - CRC matching e6fbeed0 [confidence 2]
+  Track 11 - CRC matching 38c03c30 [confidence 2]
+  Track 11 - CRC matching 1f551bd7 [confidence 2]
+  Track 11 - CRC matching 1d85872f [confidence 2]
+  Track 11 - CRC matching 00000000 [confidence 2]
+  Track 11 - CRC matching 00000000 [confidence 2]
+  Track 11 - CRC matching 00000000 [confidence 2]
+  Track 11 - CRC matching 00000000 [confidence 2]
+  Track 11 - CRC matching 00000000 [confidence 0]
+  Track 11 - CRC matching 00000000 [confidence 0]
+  Track 11 - CRC matching 00000000 [confidence 0]
+  Track 11 - CRC matching 00000000 [confidence 0]
+  Track 11 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 12 - CRC matching 3a588751 [confidence 200]
+  Track 12 - CRC matching 1b5727e9 [confidence 200]
+  Track 12 - CRC matching d099fc29 [confidence 200]
+  Track 12 - CRC matching 40e6e5c4 [confidence 118]
+  Track 12 - CRC matching 3d13ca1e [confidence 111]
+  Track 12 - CRC matching 63d7b5d0 [confidence 38]
+  Track 12 - CRC matching 9cede5dc [confidence 17]
+  Track 12 - CRC matching 170c31c7 [confidence 17]
+  Track 12 - CRC matching b608a546 [confidence 10]
+  Track 12 - CRC matching b993c82b [confidence 9]
+  Track 12 - CRC matching da7cebb1 [confidence 9]
+  Track 12 - CRC matching 54eaf21d [confidence 8]
+  Track 12 - CRC matching 3e28af33 [confidence 8]
+  Track 12 - CRC matching 1ff9bafb [confidence 8]
+  Track 12 - CRC matching f5302a04 [confidence 7]
+  Track 12 - CRC matching 816bb0c4 [confidence 7]
+  Track 12 - CRC matching 3005e959 [confidence 6]
+  Track 12 - CRC matching 80f96233 [confidence 6]
+  Track 12 - CRC matching 6b80e6b3 [confidence 5]
+  Track 12 - CRC matching 05b55220 [confidence 5]
+  Track 12 - CRC matching 9946e4b6 [confidence 5]
+  Track 12 - CRC matching d55513ac [confidence 4]
+  Track 12 - CRC matching b5b60cf5 [confidence 4]
+  Track 12 - CRC matching 53ec4da8 [confidence 3]
+  Track 12 - CRC matching fd5e0aa9 [confidence 3]
+  Track 12 - CRC matching 38b02a23 [confidence 2]
+  Track 12 - CRC matching 53a09ca5 [confidence 2]
+  Track 12 - CRC matching e61dc0c4 [confidence 2]
+  Track 12 - CRC matching 157a51a2 [confidence 2]
+  Track 12 - CRC matching 8b7cc14b [confidence 2]
+  Track 12 - CRC matching f5c828ff [confidence 2]
+  Track 12 - CRC matching de1006e7 [confidence 2]
+  Track 12 - CRC matching 00000000 [confidence 2]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+  Track 12 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at 61 samples (244 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+
+  Track 13 - CRC matching bf11262b [confidence 200]
+  Track 13 - CRC matching 43df3df6 [confidence 200]
+  Track 13 - CRC matching 20785741 [confidence 200]
+  Track 13 - CRC matching f4a7cd3f [confidence 118]
+  Track 13 - CRC matching 705ecb1c [confidence 112]
+  Track 13 - CRC matching df2f6f31 [confidence 39]
+  Track 13 - CRC matching c4efd3bc [confidence 17]
+  Track 13 - CRC matching 02920557 [confidence 17]
+  Track 13 - CRC matching a64c0a9f [confidence 10]
+  Track 13 - CRC matching c80d2c4c [confidence 9]
+  Track 13 - CRC matching 1476279f [confidence 9]
+  Track 13 - CRC matching d94c609d [confidence 8]
+  Track 13 - CRC matching 581e512c [confidence 8]
+  Track 13 - CRC matching 9aec256b [confidence 8]
+  Track 13 - CRC matching 974f3ecd [confidence 7]
+  Track 13 - CRC matching 478660ba [confidence 7]
+  Track 13 - CRC matching 1b98d6a8 [confidence 6]
+  Track 13 - CRC matching fc1db3b8 [confidence 6]
+  Track 13 - CRC matching 7fb05ec2 [confidence 6]
+  Track 13 - CRC matching aabad361 [confidence 6]
+  Track 13 - CRC matching f969b272 [confidence 5]
+  Track 13 - CRC matching 77b4e650 [confidence 4]
+  Track 13 - CRC matching f477b198 [confidence 4]
+  Track 13 - CRC matching c34c4940 [confidence 3]
+  Track 13 - CRC matching 62dbaec5 [confidence 3]
+  Track 13 - CRC matching c53bf032 [confidence 3]
+  Track 13 - CRC matching 6e58554a [confidence 3]
+  Track 13 - CRC matching 15409a50 [confidence 2]
+  Track 13 - CRC matching e1bc7525 [confidence 2]
+  Track 13 - CRC matching 4fdc9af5 [confidence 2]
+  Track 13 - CRC matching a5389a88 [confidence 2]
+  Track 13 - CRC matching 00fd955a [confidence 2]
+  Track 13 - CRC matching a8162394 [confidence 2]
+  Track 13 - CRC matching 00000000 [confidence 2]
+  Track 13 - CRC matching 00000000 [confidence 2]
+  Track 13 - CRC matching 00000000 [confidence 2]
+  Track 13 - CRC matching 00000000 [confidence 0]
+  Track 13 - CRC matching 00000000 [confidence 0]
+  Track 13 - CRC matching 00000000 [confidence 0]
+  Track 13 - CRC matching 00000000 [confidence 0]
+  Track 13 - CRC matching 00000000 [confidence 0]
+      Offset match at 0 samples (0 bytes)
+      Offset match at 3 samples (12 bytes)
+      Offset match at -9 samples (-36 bytes)
+      Offset match at -15 samples (-60 bytes)
+      Offset match at 33 samples (132 bytes)
+      Offset match at -72 samples (-288 bytes)
+      Offset match at -77 samples (-308 bytes)
+      Offset match at 79 samples (316 bytes)
+      Offset match at -213 samples (-852 bytes)
+      Offset match at -261 samples (-1044 bytes)
+      Offset match at 480 samples (1920 bytes)
+      Offset match at 541 samples (2164 bytes)
+      Offset match at 599 samples (2396 bytes)
+      Offset match at 601 samples (2404 bytes)
+      Offset match at 637 samples (2548 bytes)
+      Offset match at 649 samples (2596 bytes)
+      Offset match at 661 samples (2644 bytes)
+      Offset match at -661 samples (-2644 bytes)
+      Offset match at 666 samples (2664 bytes)
+      Offset match at 667 samples (2668 bytes)
+      Offset match at 673 samples (2692 bytes)
+      Offset match at 674 samples (2696 bytes)
+      Offset match at 685 samples (2740 bytes)
+      Offset match at 1123 samples (4492 bytes)
+      Offset match at 1144 samples (4576 bytes)
+      Offset match at 1221 samples (4884 bytes)
+      Offset match at 1230 samples (4920 bytes)
+      Offset match at 1251 samples (5004 bytes)
+      Offset match at 1337 samples (5348 bytes)
+      Offset match at 1338 samples (5352 bytes)
+      Offset match at 1343 samples (5372 bytes)
+      Offset match at 1349 samples (5396 bytes)
+Match from Drive Database
+
+
+Congratulations, AccurateRip has been set up correctly. It is recommended that this disc is ripped to test the accuracy of your drive. Calculated offset value: +667 samples, +2668 bytes. 

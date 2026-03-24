@@ -1,0 +1,13 @@
+services:
+  eac:
+    build: .
+    container_name: eac-unraid
+    ports:
+      - "8080:8080"
+      - "5900:5900"
+    volumes:
+      - ../config:/config
+      - ../storage:/storage
+    devices:
+      - /dev/sr0:/dev/sr0
+    restart: unless-stopped
