@@ -17,6 +17,11 @@ else
   printf '\nsession.screen0.toolbar.visible: false\n' >> "$HOME/.fluxbox/init"
 fi
 
+rm -f /tmp/.X0-lock
+rm -f /tmp/.X11-unix/X0
+mkdir -p /tmp/.X11-unix
+chmod 1777 /tmp /tmp/.X11-unix
+
 Xvfb :0 -screen 0 1280x800x24 &
 sleep 2
 
@@ -26,8 +31,6 @@ websockify --web=/usr/share/novnc/ 8080 localhost:5900 &
 sleep 3
 
 wine "/config/.wine32/drive_c/Program Files/Exact Audio Copy/EAC.exe" &
-sleep 8
-
-wmctrl -r "Exact Audio Copy" -b add,maximized_vert,maximized_horz || true
+sleep 5
 
 wait -n
