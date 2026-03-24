@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Exact Audio Copy</Name>
+  <Repository>ghcr.io/mchusky/exact-audio-copy:latest</Repository>
+  <Registry>https://ghcr.io</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <WebUI>http://[IP]:[PORT:8080]/eac.html</WebUI>
+  <TemplateURL/>
+  <Icon>https://raw.githubusercontent.com/McHusky/Exact-Audio-Copy/main/icon.png</Icon>
+  <ExtraParams></ExtraParams>
+
+  <Config Name="Output Path" Target="/output" Default="/mnt/user/music/rips" Mode="rw" Description="Where ripped files are stored" Type="Path" Display="always"/>
+
+  <Config Name="WebUI Port" Target="8080" Default="8080" Mode="tcp" Description="noVNC Web Interface" Type="Port" Display="always"/>
+
+  <Config Name="CD Drive" Target="/dev/sr0" Default="/dev/sr0" Mode="rwm" Description="Optical drive device" Type="Device" Display="always"/>
+
+  <Config Name="SG Device" Target="/dev/sg1" Default="/dev/sg1" Mode="rwm" Description="SCSI generic device" Type="Device" Display="advanced"/>
+
+</Container>
