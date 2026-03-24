@@ -150,7 +150,7 @@ Maps to:
 # 🛠️ Development
 
 ```bash
-docker build -t eac-unraid .
+docker build -t exact-audio-copy .
 ```
 
 ---
